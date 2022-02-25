@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The young man's alarum: or, The sad consequences of those sins which are most rife in young men now in these days as swearing, drunkenness, adultery, and the like. [In] a discourse upon the 9th. verse of the 11th. chapter of Ecclesiastes. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67726</idno>
+            <idno type="STC">Wing Y111A</idno>
+            <idno type="STC">ESTC R218570</idno>
+            <idno type="EEBO-CITATION">99830152</idno>
+            <idno type="PROQUEST">99830152</idno>
+            <idno type="VID">34602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1942:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The young man's alarum: or, The sad consequences of those sins which are most rife in young men now in these days as swearing, drunkenness, adultery, and the like. [In] a discourse upon the 9th. verse of the 11th. chapter of Ecclesiastes. Licensed according to order.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Thackery at the Angel in Duck lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Copy stained, tightly bound with slight loss of text, cropped at head affecting pagination.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ecclesiastes II, 9 --  Commentaries --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Vices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34602:1" rendition="simple:additions"/>
+            <p>THE <hi>Young Man's</hi> ALARUM: OR, The ſad Conſequences of thoſe Sins which are moſt Rife in Young Men now in theſe days, as <hi>Swearing, Drunkenneſs, Adultery,</hi> and the like.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a <hi>Diſcourſe</hi> upon the 9th. verſe of the 11th. Chapter of <hi>Eccleſiaſtes.</hi>
+            </p>
+            <q>Rejoyce O young Man in thy Youth, and let thy Heart chear thee in the days of thy Youth, and walk in the ways of thy Heart and in the ſight of thine eyes; but know thou, that for all theſe things God will bring thee into Judgment.</q>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inted for <hi>William Thackery</hi> at the <hi>Angel</hi> in <hi>Duck lane.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34602:2"/>
+            <pb facs="tcp:34602:2"/>
+            <head>THE Young Man's Alarum.</head>
+            <epigraph>
+               <q>
+                  <bibl>Eccleſ. 11. chap. 9. ver.</bibl>
+                  <p>Rejoyce O Young Man in thy Youth, and let thy Heart chear thee in the days of thy Youth, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>IT is a matter of no leſs wonder than grief, to ſee that Man, the moſt excellent and noble Creature of the World, made by God to enjoy all the benefits of this and another Life, ſhould reſpect his great happineſs ſo little, as at once to neglect them both; and wil<g ref="char:EOLhyphen"/>fully run headlong into miſery, and ſo carefully to provide for himſelf eternal Torment. How unpleaſant the Way that leads to Sin and Deſtruction is, o<g ref="char:EOLhyphen"/>thers cautions with his own experience daily tells him? and tho' Death and Damnation were not the ſure Wages
+<pb n="4" facs="tcp:34602:3"/>of Sin, yet the very ills that are pro<g ref="char:EOLhyphen"/>duced and iſſue from hatefull vice here, ſhould methinks, engage Mankind to an abomination of it, and make him apply himſelf with his utmoſt diligence and induſtry to follow and keep thoſe Commands which God out of his infi<g ref="char:EOLhyphen"/>nite Goodneſs and Mercy delivered himſelf to guide Mankind to his ever<g ref="char:EOLhyphen"/>laſting reſt and happineſs. And can we believe that God did beſtow all thoſe noble Faculties of our Soul upon us, as Reaſon, Knowledge and Under<g ref="char:EOLhyphen"/>ſtanding, to be Inſtruments of any thing beſides his Glory and the Salvati<g ref="char:EOLhyphen"/>on of us? what then will be the con<g ref="char:EOLhyphen"/>ſequence (we may eaſily imagine) of the miſ-employment of theſe great Gifts and Benefits, and converting them to the ruine of our own Souls and contempt of him and his Glory, a a Uſe clear contrary to what he deſign<g ref="char:EOLhyphen"/>ed them? Ah! huge Ingratitude of Men, thus to abuſe and forget ſo mer<g ref="char:EOLhyphen"/>cifull a God, and too too worthy of e<g ref="char:EOLhyphen"/>ternal Afflictions that will to the De<g ref="char:EOLhyphen"/>ſtruction
+<pb n="5" facs="tcp:34602:3"/>of themſelves, wickedly defie the means and opportunities that are offered of being happy; which can ne<g ref="char:EOLhyphen"/>ver be found in the loathſome embraces of Sin and Wickedneſs: Hear Young men what is here denounced againſt your Riots, Debauches, and your own joyful tho' perverſe Heart; the Judg<g ref="char:EOLhyphen"/>ment of the all-powerfull God, who will not ſpare your Blaſphemies, your Drunkenneſs, nor the Sins of your Luſt, but will deliver you to the Tyranny of Death and eternal Deſpair. Let theſe, let theſe thoughts and conſiderations, enjoyn you to a Change of your une<g ref="char:EOLhyphen"/>ven ways, remembring that for each thing you ſay, you do, you muſt ren<g ref="char:EOLhyphen"/>der an account to the juſt and all-know<g ref="char:EOLhyphen"/>ing God of Heaven and Earth, who will puniſh you according to your Crimes.: And though as in the 8th. verſe of this Chapter of <hi>Eccleſiaſtes, You live many days, and rejoyce in them all, yet remember the days of darkneſs, for they ſhall be many, and that cometh is vanity.</hi> Let us reflect but a little on
+<pb n="6" facs="tcp:34602:4"/>the miſeries that all who has been Of<g ref="char:EOLhyphen"/>fenders, againſt Heaven has ſuffered, and we ſhall give over the continuance in our Impieties; and let us take a view of all the Examples in Holy VVrit, and we ſhall find not one amongſt them that left to fear the Lord, but was in<g ref="char:EOLhyphen"/>volved in Ruine and Misfortunes: <hi>Saul</hi> pay'd for his VVickdneſs with the dear loſs of a Kingdom to Himſelf and Poſterity; and all the wicked and unrepenting Kings of <hi>Iſrael</hi> was ſcourged by their Enemies, or dye by the dangerous hands of their own Sub<g ref="char:EOLhyphen"/>jects: think then what God will even doe to you if you continue in your evil doings and deſires. Rouze, rouze, and caſt from thee, vile Sinner, theſe de<g ref="char:EOLhyphen"/>ſtroying Evils, and with the Prodigal return to Repentance: and that you may not be diſcouraged from ſo pious &amp; be<g ref="char:EOLhyphen"/>neficial a Work, God himſelf does promiſe that your Ills ſhall be paſt over when you pray to be forgiven, leaving off the power of <hi>Satan,</hi> turning with all your Hearts to your Creator. How happy,
+<pb n="7" facs="tcp:34602:4"/>how fortunate, are you young men that begins with the fear of the Lord? how aſſured is your Eſtate of Bliſs, ſince God himſelf ſays he will accept you, and profeſſes his Joy at the younger Years of Piety and Religion, leading you ſtill with his Grace till you arrive at the bleſſed Land, the Land of Promiſe to all Believers? Let me then perſwade every one of you to lay hold of all means of being ſaved, and with your firſt endeavours ſeek the knowledge of your God and Redeemer; for know 'tis Youth, the moſt healthy and the moſt ſtrong years are the beſt and moſt acceptable Offerings to him: and when the diſmal Groans and Sighs of an Old Age, preceeded by a wicked and de<g ref="char:EOLhyphen"/>bauch'd Youth ſhall he but little mind<g ref="char:EOLhyphen"/>ed, you will be ſure to meet with a kind reception of your Prayers, and have all the Bleſſings of a preſent and future Life poured upon you. Believe me, for you will find it, that 'tis the Knowledge of a well-ſpent Youth that ſecures us the greateſt comfort, and a<g ref="char:EOLhyphen"/>lone
+<pb n="8" facs="tcp:34602:5"/>can afford us Pleaſure, when the Aches and pricking Pains of Old Age, lies heavy upon us; and 'tis that that makes us with courage and aſſurance enter upon Eternity, knowing that we ſhall receive the gratefull Rewards of what we ſo well acted here. There is none who is not quite hardned with Sin and Wickedneſs, but knows what a Joy a well paſt day brings, how com<g ref="char:EOLhyphen"/>fortable a good action is, and how terri<g ref="char:EOLhyphen"/>ble to Conſcience, (which every one feels ſooner or later) the cruel remem<g ref="char:EOLhyphen"/>brance of a Wickedneſs is. But more than this, it would be well to conſider how vaſt Injuries theſe Bodies too ſuf<g ref="char:EOLhyphen"/>fer, for whoſe pleaſure we ſo oft en<g ref="char:EOLhyphen"/>gage our Souls in endleſs and lamenta<g ref="char:EOLhyphen"/>ble Woes, by Vice; and it is ſtrange to ſee Men hurry on by ſo many ſeve<g ref="char:EOLhyphen"/>ral ways to Death and Diſeaſes the on<g ref="char:EOLhyphen"/>ly two Bugbears thought of humane Nature: it is true that ſome by Drun<g ref="char:EOLhyphen"/>kenneſs ſhorten thoſe Lives every Body ſeems ſo much concern'd for, and are oftentimes living Martyrs to that Vice,
+<pb n="9" facs="tcp:34602:5"/>continuing to their Grave the wretched Objects of our pity, and their own ſhame. By Whoring, how greatly mi<g ref="char:EOLhyphen"/>ſerable Men make themſelves each Hoſ<g ref="char:EOLhyphen"/>pital tells us, &amp; their cruel Diſeaſes are as ſo many marks for us to avoid ſuch de<g ref="char:EOLhyphen"/>plorable conditions; which if we neglect after ſuch perſonal warnings, we are not to be pitied if we ſplit againſt thoſe Rocks and looſe our Healths, and all the Comforts of our Lives. By Swear<g ref="char:EOLhyphen"/>ing, how conſtantly do we call God's Judgments upon us? and how extream<g ref="char:EOLhyphen"/>ly abhorred are our Converſations, e<g ref="char:EOLhyphen"/>ven by Wicked Men, who tho' they practice it themſelves, yet hate the de<g ref="char:EOLhyphen"/>formed Sin in another? Of all the Sins that has ſo abſolutely ſubdued Men, I could ſay the ſame things, but it is needleſs, ſince the moſt common Ex<g ref="char:EOLhyphen"/>perience cannot but be acquainted with their inconveniences: but to ſay ſome<g ref="char:EOLhyphen"/>thing in ſhort of them, they not only injure our Souls, but ſpoil our greateſt benefits here; for there is not ſo much as an advantage to be expected, where
+<pb n="10" facs="tcp:34602:6"/>Vice is taken notice of; Men juſtly ſuſpecting they will be falſe to others who are ſo to their own Souls, and to their God; which without doubt is the cauſe of ſo many endeavours, though they have nothing of Piety or Sanctity but the bare pretence to maintain the o<g ref="char:EOLhyphen"/>pinion of it amongſt others, finding it neceſſary to the increaſe of their Rich<g ref="char:EOLhyphen"/>es and eſteem in the World. But to re<g ref="char:EOLhyphen"/>turn to the Afflictions that follows at the heels of the neglect of pious exer<g ref="char:EOLhyphen"/>ciſes and duties; what People ſhall we ever find that ever had the ſmiles of a proſperous Condition, without being true to God and the juſt Principles of Religion? did not the contempt of God and abominable filthineſs, cauſe the deſtruction of <hi>Sodom</hi> and <hi>Gomor<g ref="char:EOLhyphen"/>rha?</hi> was it not the forſaking of God, the Inſtructions and Commands recei<g ref="char:EOLhyphen"/>ved from him, that rendred not only the People of <hi>Iſrael</hi> lamentable, but made them become the By-word of all Nations, to whom they were a terrour whilſt they preſerved God their Friend
+<pb n="11" facs="tcp:34602:6"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Protector, by ſerving him alone <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd dedicating themſelves to the pure Worſhip of him? all this but duly con<g ref="char:EOLhyphen"/>ſidered, it will be owned that Sin is the impulſive cauſe of all our own Unhap<g ref="char:EOLhyphen"/>pineſſes, both Temporal and Eternal; and 'tis becauſe of our Tranſgreſſions that we are ſo often plagued; for <hi>
+                  <g ref="char:V">Ʋ</g>bi Peccatum ibi Miſeria,</hi> Where there is Sin there is Miſery: Iniquity calls down all ſorts of Puniſhments upon our heads; are we moleſted with Wars? is our Health cruſht with raging Diſea<g ref="char:EOLhyphen"/>ſes? are we tormented with diſtracting Maladies 'tis all for our Sins? <hi>Haggai.</hi> 1.9.10. Hear the great God of Heaven declaring Puniſhments to thoſe that break his Commandments and keep not his Statutes in the 28. <hi>chap,</hi> of <hi>Deut. But it ſhall come to paſs, if thou wilt not hearken unto the voice of thy Lord thy God, to obſerve to do all his Command<g ref="char:EOLhyphen"/>ments and the Statutes which I command this day, that all theſe Curſes ſhall come upon thee. The Lord ſhall ſend upon thee Curſing and Vexation, and Rebuke in
+<pb n="12" facs="tcp:34602:7"/>all that thou ſetteſt thine hand unto, o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to doe, untill thou be deſtroyed and unti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou periſh, quickly, becauſe of the Wicked<g ref="char:EOLunhyphen"/>neſs of thy Doings, whereby thou haſt for<g ref="char:EOLhyphen"/>ſaken me.</hi> Again, <hi>The Lord ſhall make the Peſtilence cleave unto thee, untill he have conſumed thee from off the Land whither thou goeſt to poſſeſs it.</hi> Art thou not a<g ref="char:EOLhyphen"/>fraid wretched Man! then to offend this great, this juſt God, who is ſo able to puniſh, and who will aſſuredly doe it if thou forget thy God, and his Com<g ref="char:EOLhyphen"/>mandments? thinkeſt thou, he will be more inclined to ſpare thee than that People whom he ſo loved? he lead them with his own mighty hand through ſo many dangers; for whom he made a dry Paſſage over the Red Sea, to ſecure them from their Enemies; Ah! no, feed not thy ſelf up with theſe Hopes, for he will ſend theſe and many more Curſes upon thee, if thou return'ſt not with Penitence, begging his moſt gra<g ref="char:EOLhyphen"/>cious pardon: delay it no longer, ſince it ſo much concerns thy eternal welfare, and endeavour to reconcile thy ſelf,
+<pb n="13" facs="tcp:34602:7"/>whom thou haſt ſo unworthily and un<g ref="char:EOLhyphen"/>gratefully offended; leaſt he cruſh thee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the very midſt of thy Sins, and give <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hee over to Hell and the Devil, from whence there is no Redemption. Think again and again upon this Portion that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s allotted the Wicked and Impenitent; pity thy own Soul, and thruſt it not into Hell and its Torments; but call, and God will hear thee, knock and he will open and deliver thee Heaven, with ſuch Joys as never entred into the Heart of Man to conceive: But if the denouncing of Judgments no whit ſtirs thee nor removes thee from the courſe of Sin, let his kind and gentle promiſes allure thee to be Righteous and Holy: hear him pronouncing his Bleſſings to the Good and Holy, in the 28. <hi>chap.</hi> of <hi>Deut. ver</hi> 1. <hi>And it ſhall come to paſs, if thou ſhalt hearken dili<g ref="char:EOLhyphen"/>gently unto the voice of the Lord thy God to obſerve and to doe all thy Command<g ref="char:EOLhyphen"/>ments which I command thee this day, that the Lord thy God will ſet thee on high, above all Nations of the Earth.</hi> v. 4.
+<pb facs="tcp:34602:8"/>
+               <hi>Bleſſed ſhall be the fruit of thy body, and the fruit of thy ground, and the fruit of, thy cattel, and the increaſe of thy Kine, and flocks of thy ſheep;</hi> ſo on: See then what a great gain Godlineſs is to us here: ſee how neceſſary the obſervation of God's Command is for the Riches of this World, for the increaſe of our ſtore: and mark that 'tis from Vertue alone that we are to expect the Riches of this Life and the Glory of another. How juſtly will all Men condemn him for a Fool, that in ſpight of theſe immenſe Promiſes and Bleſſings, ſhall continue a Sot to Pleaſures, which tickle only for the preſent, but leave a fatal Sting be<g ref="char:EOLhyphen"/>hind them; and whilſt they are Honey in the Mouth, are Gall in the Stomach, and are ſucceeded by Miſeries and Diſ<g ref="char:EOLhyphen"/>contents? Let Reaſon take a place a little, and hearken to the dictates of Truth; compare impartially the Good and the Bad together, that thou may'ſt find the difference, and not like the Child, chooſe only things that are fair, and pleaſant to the firſt eye of Fancy;
+<pb facs="tcp:34602:8"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut thoſe that carry an intrinſick and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olid worth: Moreover, weigh with thy ſelf the ſmall duration and continu<g ref="char:EOLhyphen"/>ance of things of this World, and think thy ſelf that thou canſt not be with them long thy ſelf, but muſt be ſummoned to make thy appearance: theſe often conſidered, will perhaps a<g ref="char:EOLhyphen"/>bate thy affection to things here below, and will perſwade thee to ſtrive to ſe<g ref="char:EOLhyphen"/>cure an Intereſt where is eternal happi<g ref="char:EOLhyphen"/>neſs and where Joys can never fade; which done, thou wilt be ſure to be quiet within thy ſelf here, and not fear Death, which is ſo great a terrour to the Lovers of wordly Delights. Ha<g ref="char:EOLhyphen"/>ving done with this, it becomes me to tell you young Men the Ways by which ye may moſt aſſuredly glorifie God and purchaſe your ſelves eternal Happineſs. Be ſure to avoid Idleneſs, it being the Banker and Ruſt of good Inclinations, and an inlet to a thouſand dangerous Sins: be ſure to Honour your Parents, as thoſe that gave you Life and Being, with many more benefits: be obedient
+<pb facs="tcp:34602:9"/>to all Magiſtrates and all higher Pow<g ref="char:EOLhyphen"/>ers, according to the Direction of S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Paul,</hi> flye the Company of Drunkard debauch'd Perſons of all degrees, fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Evil Converſation corrupts good Man<g ref="char:EOLunhyphen"/>ners: Shun the Embraces of looſe and wanton Women, <hi>Solomon</hi> aſſuring you they will bring you to a Morſel of Bread: But chiefly, be ſure to perform your Duties of Prayer both day and night to God, uſing no frivolous pre<g ref="char:EOLhyphen"/>tences to excuſe you from them; for ſo we bleſs God and he bleſſes us: On the Lord's day abſtain from all Works or Sports, and fail not to be preſent at the publick hours and places of Prayer, attending reverently and devoutly. Laſtly, doe as you would be done by, practiſe theſe, tho' there be many other Rules, and you will not fail to have Eternal Life.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
